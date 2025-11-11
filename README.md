@@ -1,42 +1,41 @@
-# ArrayList
-Ejercicios de prueba para aprender JAVA
-# 📋 Ejemplo de uso de ArrayList en Java
+# 💻 Prácticas de Programación en Java
 
-Este proyecto muestra un ejemplo básico del uso de la clase `ArrayList` en Java. Forma parte de mi formación en el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), y tiene como objetivo practicar operaciones fundamentales sobre listas dinámicas.
+Este repositorio contiene ejercicios y proyectos desarrollados como parte de mi formación en el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). El objetivo es practicar conceptos clave de programación en Java, incluyendo estructuras de datos, programación orientada a objetos, manejo de errores, y desarrollo de aplicaciones de consola.
 
-## 🚀 Funcionalidades implementadas
+## 📚 Contenido del repositorio
 
-- Crear una lista de nombres (`ArrayList<String>`)
-- Añadir elementos a la lista
-- Mostrar todos los elementos
-- Acceder a elementos por índice
-- Modificar elementos existentes
-- Eliminar elementos por valor
-- Verificar si un elemento existe
-- Obtener el tamaño de la lista
-- Recorrer la lista con un bucle `for-each`
+- Ejercicios con `ArrayList` y colecciones
+- Programas orientados a objetos (POO)
+- Miniaplicaciones de consola (CRUD, gestión de datos)
+- Prácticas con estructuras condicionales y bucles
+- Proyectos en evolución con persistencia y entrada por teclado
 
 ## 🛠️ Tecnologías utilizadas
 
 - Lenguaje: Java (JDK 17)
-- IDE sugerido: IntelliJ IDEA o Eclipse
-- Estructuras: ArrayList, condicionales, bucles
-
-## 📁 Estructura del proyecto
-
+- IDEs: IntelliJ IDEA, Eclipse
+- Herramientas: Git, GitHub
+- (Opcional) MySQL, Android Studio, TIA Portal (según el proyecto)
 
 ## 🎯 Objetivos de aprendizaje
 
-- Comprender el funcionamiento de las listas dinámicas en Java
-- Aplicar métodos clave de `ArrayList`: `add`, `get`, `set`, `remove`, `contains`, `size`
-- Practicar la manipulación de datos en estructuras de colección
-- Mejorar la legibilidad y organización del código
+- Dominar la sintaxis y lógica de programación en Java
+- Aplicar principios de programación orientada a objetos
+- Utilizar estructuras dinámicas como listas y mapas
+- Desarrollar aplicaciones funcionales y bien estructuradas
+- Prepararse para entornos reales de desarrollo de software
 
-## 📌 Estado del proyecto
+## 📁 Estructura sugerida
 
-✅ Completado  
-📚 Puede ampliarse con entrada de datos por teclado (`Scanner`) o persistencia en archivos
+
+## 📌 Estado del repositorio
+
+🚧 En desarrollo  
+✅ Ejercicios funcionales  
+📚 Se irán añadiendo nuevos proyectos conforme avance la formación
 
 ## 📄 Licencia
 
-Este proyecto es de uso libre para fines educativos.
+Este repositorio es de uso libre para fines educativos.
+
+---
