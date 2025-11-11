@@ -1,4 +1,4 @@
-# JavaDAM
+# ArrayList
 Ejercicios de prueba para aprender JAVA
 # 📋 Ejemplo de uso de ArrayList en Java
 
